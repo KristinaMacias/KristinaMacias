@@ -1,4 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEuIOrhDq1tMw/profile-displaybackgroundimage-shrink_350_1400/0/1647654332173?e=1672876800&v=beta&t=h1NlPusIvIPH3OUcNCWRxhXNxEUVYIuEGMNKUY5m1U4" alt="background banner showing desk" >
 <h1 align="center">Hi 👋, I'm Kristina</h1>
 <h3 align="center">A passionate frontend developer from Long Beach, CA.</h3>
 <br>
