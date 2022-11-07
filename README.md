@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KristinaMacias?tab=repositories](https://github.com/KristinaMacias?tab=repositories)
 
-- 💬 Ask me about **my experience as a frontend mentor**
+- 💬 Ask me about **my experience as a frontend mentor an developer**
 
 - 📫 How to reach me **kristina@kristinamacias.com**
 
