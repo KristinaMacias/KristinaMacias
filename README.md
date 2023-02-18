@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristina</h1>
-<h3 align="center">A passionate frontend developer from Long Beach, CA.</h3>
+<h3 align="center">A passionate front-end developer from Long Beach, CA.</h3>
 
 - 🔭 I’m currently working on **getting backend certification at Promineo Tech**
 
