@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on **getting backend certification at Promineo Tech**
 
-- 🌱 I’m currently learning **Java, SpringBoot, SQL**
+- 🌱 I’m currently learning **Java, Springboot, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KristinaMacias?tab=repositories](https://github.com/KristinaMacias?tab=repositories)
-
-- 💬 Ask me about **my experience as a frontend mentor and developer**
+- 💬 Ask me about **my experience as a front end developor and mentor**
 
 - 📫 How to reach me **kristina@kristinamacias.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maciaskristina/](https://www.linkedin.com/in/maciaskristina/)
+- 📄 Learn more about me! [https://www.linkedin.com/in/maciaskristina/](https://www.linkedin.com/in/maciaskristina/)
 
-- ⚡ Fun fact **I create music in my free time**
+- ⚡ Fun fact **I create electronic music that people can code to**
 
 ------------------------------
 
