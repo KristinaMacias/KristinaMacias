@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Springboot, SQL**
 
-- 💬 Ask me about **my experience as a front end developor and mentor**
+- 💬 Ask me about **my experience as a front-end developer and mentor**
 
 - 📫 How to reach me **kristina@kristinamacias.com**
 
